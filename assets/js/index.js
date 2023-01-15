@@ -1,0 +1,1 @@
+const botaoMenu = document.querySelector('.menu-lateral')
